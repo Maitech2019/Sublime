@@ -7,3 +7,6 @@
 # Employee 
 1. Class & Instance Variable
 2. Inheritance, Super, Object>__str__, Ploymorphism, Overloading & Overriding 
+
+# Set of program .py file 
+[class_employee.py, class_programmer.py, class_sales.py, class_accouting.py, run_program.py]
